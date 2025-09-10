@@ -1,0 +1,8 @@
+Uri: https://fb-hhelpline-service.vercel.app/?gad_source=1
+File Name: C:\Users\Locked Door\Desktop\fb-hhelpline-service.vercel.app\index.htm.html
+Content Type: text/html
+
+Uri: https://static.vecteezy.com/system/resources/previews/055/210/890/non_2x/meta-logo-square-rounded-meta-logo-meta-logo-free-download-free-png.png
+File Name: C:\Users\Locked Door\Desktop\fb-hhelpline-service.vercel.app\system\resources\previews\055\210\890\non_2x\meta-logo-square-rounded-meta-logo-meta-logo-free-download-free-png.png
+Content Type: image/png
+
